@@ -9,7 +9,7 @@ I build tools that help AI **create with taste**: Claude Code skills and MCP ser
 | Project | What it does | Install |
 |---|---|---|
 | 🎬 **[pro-motion](https://github.com/jack-reson8/pro-motion)** | Audio-first motion-graphics launch, brand and TVC films. Plan the music as a marketing asset, then render the film in code, cut to the beat. | `/plugin marketplace add jack-reson8/pro-motion` |
-| 🧰 **[skill-skill](https://github.com/jack-reson8/skill-skill)** | A skill for writing skills that change what gets generated, with an audit script and a health score. | `git clone https://github.com/jack-reson8/skill-skill ~/.claude/skills/skill-skill` |
+| 🧰 **[skill-skill](https://github.com/jack-reson8/skill-skill)** | A skill for writing skills that change what gets generated, with an audit script and a health score. | `/plugin marketplace add jack-reson8/skill-skill` |
 | 🔗 **[toolkb-mcp](https://github.com/jack-reson8/toolkb-mcp)** | Turn any link into AI-ready Markdown: YouTube transcripts, web pages, App Store reviews. Local, no API key. | `claude mcp add toolkb -- npx -y github:jack-reson8/toolkb-mcp` |
 | 🎮 **[liminal-game](https://github.com/jack-reson8/liminal-game)** | 界穿 LIMINAL: Pachinko × Roguelite × Balatro-style scoring. | |
 
