@@ -4,6 +4,8 @@ I build tools that help AI **create with taste**: Claude Code skills and MCP ser
 
 我做让 AI 有审美地创作的工具：Claude Code skill 和 MCP。
 
+📊 **New:** [I audited 899 public Claude skills, and many never tell the model when to use them](https://github.com/jack-reson8/skill-skill/blob/main/reports/2026-10/README.md)
+
 | Project | What it does | Install |
 |---|---|---|
 | 🎬 **[pro-motion](https://github.com/jack-reson8/pro-motion)** | Audio-first motion-graphics launch, brand and TVC films. Plan the music as a marketing asset, then render the film in code, cut to the beat. | `/plugin marketplace add jack-reson8/pro-motion` |
